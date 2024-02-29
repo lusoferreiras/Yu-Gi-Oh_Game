@@ -40,5 +40,3 @@ conceitos abordados:
 - Funções limpas
 - Organização de código
 # Yu-Gi-Oh GAME
-# Yu-Gi-Oh GAME
-# Yu-Gi-Oh GAME
